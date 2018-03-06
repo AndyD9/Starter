@@ -18,5 +18,9 @@
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "node-sass": "^4.7.2"
+  },
+  "dependencies": {
+    "flexbox": "0.0.3",
+    "flexboxgrid": "^6.3.1"
   }
 }
